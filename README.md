@@ -1,4 +1,4 @@
 redditKarmaFetch
 ================
 
-A simple python function which grabs the top karma of any Reddit user inputted.  
+A simple python function which grabs the top karma of any Reddit user inputted using the PRAW library.  
